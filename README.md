@@ -46,4 +46,4 @@ The preprint associated with this table can be viewed here: https://arxiv.org/ab
 
 
 
-## To contribute to this resource please fill out this Google Form: 
+## To contribute to this resource please fill out this Google Form: https://forms.gle/JnqxyQiws1nuRA8n9
